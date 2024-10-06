@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration status="INFO">
+
+	<Properties>
+
+		<Property name="Log-path">./logs</Property>
+		<Property name="Log-pattern"> %d{YYYY-MM-DD HH:MM:SS} %-5p %c{1}:%L - %m%n
+		</Property>
+
+	</Properties>
+
+	<Appenders>
+		<!-- Console appender configuration -->
+		<Console name="console" target="SYSTEM_OUT">
+			<PatternLayout pattern="${Log-pattern}" />
+		</Console>
+		
+		<RollingFile name="File"
+			fileName="${Log-path}/automation.Log"
+			filePattern="${Log-path}/automation-%d{MM-dd-yyyy}-%i.Log.gz">
+
+			<PatternLayout pattern="${Log-pattern}" />
+
+			<Policies>
+
+				<TimeBasedTriggeringPolicy />
+				<SizeBasedTriggeringPolicy size="1MB" />
+
+			</Policies>
+
+			<DefaultRolloverStrategy max="10" />
+
+		</RollingFile>
+	</Appenders>
+	
+	<Loggers>
+		<!-- Root logger referring to console appender -->
+		<Root level="INFO" >
+			<!-- <AppenderRef ref="console" /> -->
+			<AppenderRef ref="File" />
+		</Root>
+	</Loggers>
+</Configuration>

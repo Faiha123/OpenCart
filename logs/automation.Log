@@ -1,0 +1,42 @@
+2024-10-280 10:10:757 INFO  AccountRegistrationTest:60 - ******** Launching Application ***********
+2024-10-280 10:10:167 INFO  AccountRegistrationTest:25 - ********** Starting Account Registration Test *************
+2024-10-280 10:10:224 INFO  AccountRegistrationTest:31 - ********* Clicking on MyAccount ***********
+2024-10-280 10:10:91 INFO  AccountRegistrationTest:34 - ********* Clicked on Register Link ***********
+2024-10-280 10:10:107 INFO  AccountRegistrationTest:38 - ********* Providing Customer information ***********
+2024-10-280 10:10:967 INFO  AccountRegistrationTest:49 - ********* Validating expected message ***********
+2024-10-280 10:10:32 INFO  AccountRegistrationTest:52 - ********* Account Registration Test Passed ***********
+2024-10-280 10:10:32 INFO  AccountRegistrationTest:56 - ********* Finished Account Registration Testing ***********
+2024-10-280 10:10:19 INFO  LoginTest:60 - ******** Launching Application ***********
+2024-10-280 10:10:09 INFO  LoginTest:16 - ********* Starting Login Test*************
+2024-10-280 10:10:572 INFO  LoginTest:24 - ********* Clicked on HomePage Login Button *************
+2024-10-280 10:10:582 INFO  LoginTest:29 - ********* Adding credentials *************
+2024-10-280 10:10:638 INFO  LoginTest:33 - ********* Clicked on LoginPage Login Button *************
+2024-10-280 10:10:734 INFO  LoginTest:44 - ********* Login Test Completed *************
+2024-10-280 11:10:983 INFO  AccountRegistrationTest:60 - ******** Launching Application ***********
+2024-10-280 11:10:456 INFO  AccountRegistrationTest:25 - ********** Starting Account Registration Test *************
+2024-10-280 11:10:493 INFO  AccountRegistrationTest:31 - ********* Clicking on MyAccount ***********
+2024-10-280 11:10:394 INFO  AccountRegistrationTest:34 - ********* Clicked on Register Link ***********
+2024-10-280 11:10:406 INFO  AccountRegistrationTest:38 - ********* Providing Customer information ***********
+2024-10-280 11:10:26 INFO  AccountRegistrationTest:49 - ********* Validating expected message ***********
+2024-10-280 11:10:91 INFO  AccountRegistrationTest:52 - ********* Account Registration Test Passed ***********
+2024-10-280 11:10:91 INFO  AccountRegistrationTest:56 - ********* Finished Account Registration Testing ***********
+2024-10-280 11:10:960 INFO  LoginTest:60 - ******** Launching Application ***********
+2024-10-280 11:10:811 INFO  LoginTest:16 - ********* Starting Login Test*************
+2024-10-280 11:10:40 INFO  LoginTest:24 - ********* Clicked on HomePage Login Button *************
+2024-10-280 11:10:47 INFO  LoginTest:29 - ********* Adding credentials *************
+2024-10-280 11:10:916 INFO  LoginTest:33 - ********* Clicked on LoginPage Login Button *************
+2024-10-280 11:10:46 INFO  LoginTest:44 - ********* Login Test Completed *************
+2024-10-280 11:10:634 INFO  AccountRegistrationTest:60 - ******** Launching Application ***********
+2024-10-280 11:10:14 INFO  AccountRegistrationTest:25 - ********** Starting Account Registration Test *************
+2024-10-280 11:10:33 INFO  AccountRegistrationTest:31 - ********* Clicking on MyAccount ***********
+2024-10-280 11:10:870 INFO  AccountRegistrationTest:34 - ********* Clicked on Register Link ***********
+2024-10-280 11:10:872 INFO  AccountRegistrationTest:38 - ********* Providing Customer information ***********
+2024-10-280 11:10:502 INFO  AccountRegistrationTest:49 - ********* Validating expected message ***********
+2024-10-280 11:10:571 INFO  AccountRegistrationTest:52 - ********* Account Registration Test Passed ***********
+2024-10-280 11:10:571 INFO  AccountRegistrationTest:56 - ********* Finished Account Registration Testing ***********
+2024-10-280 11:10:235 INFO  LoginTest:60 - ******** Launching Application ***********
+2024-10-280 11:10:70 INFO  LoginTest:16 - ********* Starting Login Test*************
+2024-10-280 11:10:61 INFO  LoginTest:24 - ********* Clicked on HomePage Login Button *************
+2024-10-280 11:10:65 INFO  LoginTest:29 - ********* Adding credentials *************
+2024-10-280 11:10:931 INFO  LoginTest:33 - ********* Clicked on LoginPage Login Button *************
+2024-10-280 11:10:976 INFO  LoginTest:44 - ********* Login Test Completed *************
